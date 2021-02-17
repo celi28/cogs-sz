@@ -1,0 +1,28 @@
+{
+    "author" : [
+        "Celi28"
+    ],
+    "description" : "",
+    "disabled" : false,
+    "end_user_data_statement" : "",
+    "hidden" : true,
+    "install_msg" : "",
+    "max_bot_version" : "0.0.0",
+    "min_bot_version" : "3.1.8",
+    "min_python_version" : [
+        3,
+        7,
+        2
+    ],
+    "name" : "UserValidation",
+    "permissions" : [
+        "manage_roles"
+    ],
+    "required_cogs" : {},
+    "requirements" : [],
+    "short" : "",
+    "tags" : [
+        "utility",
+    ],
+    "type" : "COG"
+}
